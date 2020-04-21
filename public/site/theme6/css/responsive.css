@@ -1,0 +1,1 @@
+.logo{width:150px}@media only screen and (min-width:480px) and (max-width:767px){.hidden-sm{display:none!important}.logo{width:100px}.wizard>.steps>ul>li{width:50%}}@media only screen and (min-width:240px) and (max-width:470px){.hidden-sm{display:none!important}.logo{width:80px}.wizard>.steps>ul>li{width:50%}}
